@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mohamed-Heikal
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cloud Computing, CI/CD Automation, and DevOps Tools
+- 🌱 I’m currently learning Docker, Kubernetes, and Python for Automation
+- 💞️ I’m looking to collaborate on cloud-based projects and automation pipelines
 
 <!---
 Mohamed-Heikal/Mohamed-Heikal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
